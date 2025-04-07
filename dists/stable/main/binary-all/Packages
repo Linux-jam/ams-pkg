@@ -1,0 +1,8 @@
+Package: my-package
+Version: 1.0
+Architecture: all
+Maintainer: <Fuma Nakamura> <malum4678@gmail.com>
+Filename: pool/main/pkg_1.0.deb
+Size: 2280
+SHA256: fb53ea4995842b6ec23f7e409b045dd175b4eef5c17a255ca311544a4865982e
+Description: Simply apt client
