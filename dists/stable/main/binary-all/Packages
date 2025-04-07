@@ -1,4 +1,4 @@
-Package: my-package
+Package: pkg
 Version: 1.0
 Architecture: all
 Maintainer: <Fuma Nakamura> <malum4678@gmail.com>
@@ -6,3 +6,12 @@ Filename: pool/main/pkg_1.0.deb
 Size: 2280
 SHA256: fb53ea4995842b6ec23f7e409b045dd175b4eef5c17a255ca311544a4865982e
 Description: Simply apt client
+
+Package: my-package
+Version: 1.0-1
+Architecture: all
+Maintainer: <Your Name> <you@example.com>
+Filename: pool/main/pacup_1.0.deb
+Size: 1364
+SHA256: e3852890275f4c82c6d29d954a0c6219d236a358a9e270520ece48983976873a
+Description: flatpak and deb and snap updater
