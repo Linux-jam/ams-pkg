@@ -10,7 +10,7 @@ Description: Simply apt client
 Package: pacup
 Version: 1.0-1
 Architecture: all
-Maintainer: <Your Name> <you@example.com>
+Maintainer: <Fuma Nakamura> <malum4678@gmail.com>
 Filename: pool/main/pacup_1.0.deb
 Size: 1364
 SHA256: e3852890275f4c82c6d29d954a0c6219d236a358a9e270520ece48983976873a
