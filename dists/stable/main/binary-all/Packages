@@ -7,7 +7,7 @@ Size: 2280
 SHA256: fb53ea4995842b6ec23f7e409b045dd175b4eef5c17a255ca311544a4865982e
 Description: Simply apt client
 
-Package: my-package
+Package: pacup
 Version: 1.0-1
 Architecture: all
 Maintainer: <Your Name> <you@example.com>
